@@ -1,0 +1,14 @@
+/home/rosario/ProjectsCSharp/Hola-Mushito/bin/Debug/net10.0/Hola-Mushito
+/home/rosario/ProjectsCSharp/Hola-Mushito/bin/Debug/net10.0/Hola-Mushito.deps.json
+/home/rosario/ProjectsCSharp/Hola-Mushito/bin/Debug/net10.0/Hola-Mushito.runtimeconfig.json
+/home/rosario/ProjectsCSharp/Hola-Mushito/bin/Debug/net10.0/Hola-Mushito.dll
+/home/rosario/ProjectsCSharp/Hola-Mushito/bin/Debug/net10.0/Hola-Mushito.pdb
+/home/rosario/ProjectsCSharp/Hola-Mushito/obj/Debug/net10.0/Hola-Mushito.GeneratedMSBuildEditorConfig.editorconfig
+/home/rosario/ProjectsCSharp/Hola-Mushito/obj/Debug/net10.0/Hola-Mushito.AssemblyInfoInputs.cache
+/home/rosario/ProjectsCSharp/Hola-Mushito/obj/Debug/net10.0/Hola-Mushito.AssemblyInfo.cs
+/home/rosario/ProjectsCSharp/Hola-Mushito/obj/Debug/net10.0/Hola-Mushito.csproj.CoreCompileInputs.cache
+/home/rosario/ProjectsCSharp/Hola-Mushito/obj/Debug/net10.0/Hola-Mushito.dll
+/home/rosario/ProjectsCSharp/Hola-Mushito/obj/Debug/net10.0/refint/Hola-Mushito.dll
+/home/rosario/ProjectsCSharp/Hola-Mushito/obj/Debug/net10.0/Hola-Mushito.pdb
+/home/rosario/ProjectsCSharp/Hola-Mushito/obj/Debug/net10.0/Hola-Mushito.genruntimeconfig.cache
+/home/rosario/ProjectsCSharp/Hola-Mushito/obj/Debug/net10.0/ref/Hola-Mushito.dll
