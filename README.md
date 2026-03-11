@@ -1,2 +1,2 @@
-First EVER upload using git though linux mint terminal.
+First EVER upload using git and C# though linux mint terminal.
 Feeling proud of myself.
